@@ -1,13 +1,11 @@
-# Name of Repo
+# Wonder Pets Activate
 
 Date Created: 01/20/20 | Date Modified: 01/20/20
 
-This assignment is practice for Book 0: Chapter 0 of NSS's course work. Link to the assignment: 
+This assignment is practice for Book 2: Chapter 12 of NSS's course work. Link to the assignment: https://github.com/TrinityTerry/client-side-mastery/blob/master/book-2-the-neophyte/chapters/JS_EVENTS.md#practice-wonder-powers-activate
 
 Preview Assignment: 
 ***
-# nss-js-event-wonder-pets-activate
-
 1. Add the correct string as the first argument to `addEventListener()`
 2. Write a function named `flightHandlerFunction` that will remove the `disabled` class on the corresponding `<section id="flight">` (section, not button) and replace it with a class of `enabled`.
 3. Have your developer tools open. When you click the button, the following element...
